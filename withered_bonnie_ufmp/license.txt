@@ -1,0 +1,11 @@
+Model Information:
+* title:	Withered Bonnie ufmp
+* source:	https://sketchfab.com/3d-models/withered-bonnie-ufmp-f9bee42fdcba46e29f111256df64bca8
+* author:	Tgames (https://sketchfab.com/brandonmartinleon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Withered Bonnie ufmp" (https://sketchfab.com/3d-models/withered-bonnie-ufmp-f9bee42fdcba46e29f111256df64bca8) by Tgames (https://sketchfab.com/brandonmartinleon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
